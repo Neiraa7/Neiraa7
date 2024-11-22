@@ -14,7 +14,9 @@ Me apasiona la **programación** y la **inteligencia artificial**. Siempre estoy
 <img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white" height="20"/> &nbsp;
 <img alt="SymPy" src="https://img.shields.io/badge/SymPy%20-%23239120.svg?&style=flat&logo=sympy&logoColor=white" height="20"/> &nbsp;
 <img alt="TensorFlow" src="https://img.shields.io/badge/tensorflow%20-%23FF6F00.svg?&style=flat&logo=tensorflow&logoColor=white" height="20"/> &nbsp;
-<img alt="Keras" src="https://img.shields.io/badge/keras%20-%23D00000.svg?&style=flat&logo=keras&logoColor=white" height="20"/>
+<img alt="Keras" src="https://img.shields.io/badge/keras%20-%23D00000.svg?&style=flat&logo=keras&logoColor=white" height="20"/> &nbsp;
+<img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib%20-%233377AA.svg?&style=flat&logo=plotly&logoColor=white" height="20"/> &nbsp;
+<img alt="Pytesseract" src="https://img.shields.io/badge/Pytesseract%20-%23FF9900.svg?&style=flat&logo=tesseract&logoColor=white" height="20"/>
 
 ## Interests
 - Programming
